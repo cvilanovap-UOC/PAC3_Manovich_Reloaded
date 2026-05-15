@@ -1,7 +1,7 @@
 # PAC3_Manovich_Reloaded
 
 
-**Redescobrint la Hibridació** 
+**Redescobrint la Hibridació**  
 Cultura Digital **UOC** 2026.  
 Autora: Carla Vilanova Peluchon.
 
