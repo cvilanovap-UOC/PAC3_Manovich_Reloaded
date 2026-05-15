@@ -5,7 +5,7 @@
 Cultura Digital **UOC** 2026.  
 Autora: Carla Vilanova Peluchon.
 
-
+___
 
 ### CAS D’ESTUDI 1 - Aplicació POLARSTEPS
 
@@ -39,7 +39,6 @@ Manovich defensa que els elements híbrids també poden centrar-se en noves form
 Per últim, un altre element essencial en aquest mushup és la capacitat d’interacció amb altres usuaris que vesteix l’aplicació amb dimensió de xarxa social. L'opció de compartir els viatges en directe o comentar publicacions descriuen les dinàmiques dels mitjans socials actuals i fa que el contingut accessible es generi de forma col·laborativa.
 
 ___
----
 
 ### CAS D’ESTUDI 2 - Projecte “Cartografiar l’invisible: Espècies, migracions i canvi ecològic”
 
@@ -72,7 +71,6 @@ El projecte dona forma a quelcom invisible o intangible per a l’espectador, qu
 
 Per acabar, els dos exemples escollits per l’assaig crec que encaixen en una classificació breu que fa Manovich en un fragment del seu anàlisi dels mitjans híbrids. Polarsteps pot representar els híbrids que proporcionen més informació combinant formats ja existents, i “Cartografiar l’invisible”, en canvi, s’ajusta més a aquells híbrids que reconfiguren formats amb el fi de crear noves representacions de les experiències humanes.
 
----
 ---
 
 ### Referències Bibliogràfiques
